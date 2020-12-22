@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    erubi (1.10.0)
+    rack (2.2.3)
+    roda (3.39.0)
+      rack
+    sequel (5.39.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  erubi
+  roda
+  sequel
+
+BUNDLED WITH
+   2.1.4
