@@ -1,0 +1,4 @@
+/.env.rb
+.bundle
+/vendor
+/assets/node_modules
